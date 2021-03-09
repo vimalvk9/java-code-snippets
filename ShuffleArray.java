@@ -1,6 +1,5 @@
 public class ShuffleArray {
     public static void main(String args[]){
-
         shuffle(new int[]{1,2,3,4,4,3,2,1}, 4);
     }
 
