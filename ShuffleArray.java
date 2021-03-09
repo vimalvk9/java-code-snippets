@@ -19,11 +19,7 @@ public class ShuffleArray {
             }
         }
 
-        for(int num: result){
-            System.out.println(num);
-        }
-
-    return result;
+        return result;
     }
 
 }
